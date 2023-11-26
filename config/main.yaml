@@ -1,0 +1,5 @@
+data:
+  raw: data/raw/Automobile.csv
+  processed: data/processed/Automobile_processed.csv
+  final: data/final/Automobile_final.csv
+image: images
